@@ -4,6 +4,8 @@ As of now, you have completed Project Week 1 and should now have a React Applica
 - [Material Design](https://material.io/design/introduction) is a design system that can guide you on what UI decisions to make if you would like to explore best practices, but functionality is the key focus of the lab.
 - No back-end is required for this lab, all data (tasks) should live in the front-end.
 
+changes
+
 ## Requirements
 Feature requirements (Week 2 task is complete when you):
 + Provide the date and time of item addition
